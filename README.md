@@ -1,6 +1,6 @@
 # Design-for-learming-exercise
 ggplot2 tutorial 1
-
+link: https://kate8890.shinyapps.io/ggplot_intro/#section-topic-2
 
 coding for Rstudio
 ---
